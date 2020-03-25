@@ -41,3 +41,8 @@
             Tool is Deleted By Default, And We Can Not Using Any more, For This 
             Reason I Maked A Simple Tool, Like The arpspoof Attack, And Fortunatly 
             This Tool is Working as arpspoof Like The Real Tool :)
+
+    #Instalation
+            sudo git clone https://github.com/ehs4nnn/Spoofing-Attack.git
+            cd Spoofing-Attack
+            sudo python3 Spoof.py
