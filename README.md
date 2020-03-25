@@ -42,7 +42,7 @@
             Reason I Maked A Simple Tool, Like The arpspoof Attack, And Fortunatly 
             This Tool is Working as arpspoof Like The Real Tool :)
 
-    #Instalation
+    #Instalation & Usage
             sudo git clone https://github.com/ehs4nnn/Spoofing-Attack.git
             cd Spoofing-Attack
-            sudo python3 Spoof.py
+            sudo python3 arpspoof.py
