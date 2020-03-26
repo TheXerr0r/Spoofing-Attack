@@ -37,7 +37,7 @@ def restore(dest_ip, source_ip):
 	packet = scapy.ARP(op=2, pdst=dest_ip, hwdst=dest_mac, psrc=source_ip, hwsrc=src_mac)
 	scapy.send(packet, verbose=False)
 
-target_ip = input("Please Enter You Victem IP? ")
+target_ip = input("Please Enter You Victim IP? ")
 gateway_ip = input("Please Enter Your Gateway IP? ")
 
 sender_packet = 0
