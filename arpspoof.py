@@ -53,4 +53,4 @@ except KeyboardInterrupt:
 	time.sleep(4)
 	restore(target_ip, gateway_ip)
 	restore(gateway_ip, target_ip)
-	print("\n[+] Everything Gonna Restore To The Special Mode :)")
+	print("\n[+] Everything Restore To The Special Mode :)")
