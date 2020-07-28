@@ -1,4 +1,4 @@
-[![alt tag](ScreenShot.png)](https://wikipedia.org/wiki/Mr._Robot)
+[![alt tag](ScreenShot.png)]
 
 ---------------------------------------------------------------------------------------
 
