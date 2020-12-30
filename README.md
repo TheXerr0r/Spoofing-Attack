@@ -43,7 +43,7 @@
             This Tool is Working as arpspoof Like The Real Tool :)
 
     #Instalation & Usage
-            sudo git clone https://github.com/ehs4nnn/Spoofing-Attack.git
+            sudo git clone https://github.com/TheXerr0r/Spoofing-Attack.git
             cd Spoofing-Attack
             sudo chmod +x arpspoof.py
             sudo python3 arpspoof.py
