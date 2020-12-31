@@ -12,10 +12,10 @@ figlet_Name = ('''
            /_/                       /___/                               
                                                           
        <-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
-                            By: EhSaN FaRaMaRz
-                    GiTHuB: https://github.com/ehs4nnn/
+                            By: TheXerr0r
+                    GiTHuB: https://github.com/TheXerr0r/
                      yOuTubE: https://bit.ly/3aiMyjV
-                        EmAiL: ehsan@rajekar.com
+                        EmAiL: TheXerr0r@rajekar.com
        <-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+-+->
 ''')
 print(figlet_Name)
