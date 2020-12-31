@@ -1,4 +1,4 @@
-![alt tag](ScreenShot.png)
+
 
 ---------------------------------------------------------------------------------------
 
@@ -9,15 +9,14 @@
                    /_/                       /___/                               
 
                                 About Creater
-          My name is Ehsan, I'm 18 Years Old, I Live In Soran in Kurdistan
-            Which Is A Part And Region Of Iraq, I'm A Ethical Hacker And 
-        Cyber Security Reasercher, And Also I'm A Programmer And Web Designer
+        I'm A Ethical Hacker And Cyber Security Reasercher, And Also 
+                       I'm A Programmer And Web Designer
                               And Web Developer :)
                          
                          
                                    My Skills       
                Standard Laguages: (English, Persian, Kurdish)
-               Programming Languages: (Python, Java, C#, Machine Learning)
+               Programming Languages: (Python, Java, C#, SQL, Bash)
                MarkUp Languages: (HTML, CSS, JS, PHP)
                Microsoft Office: (Word, Excel, PowerPoint, Access)
            
@@ -27,10 +26,8 @@
            Don't Worry, If You Have A Question Or A Mistake About Anything
                You Can Contact Me With This Down Options On This Page
              -+ - + - + - + - + - + - + - + - + - + - + - + - + - + - +-
-         <                    Email: ehsan@rajekar.com                     >
-         <                    FaceBook: Ehsan Faramarz                     >
-         <                    Instagram: ehs4nnn                           >
-         <                    Linkedin: es4nnn                             >
+         <                    Email: TheXerr0r@rajekar.com                     >
+         <                    Linkedin: The Xerr0r                         >
              -+ - + - + - + - + - + - + - + - + - + - + - + - + - + - +-
 
 
