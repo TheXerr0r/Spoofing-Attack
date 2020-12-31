@@ -3,7 +3,6 @@
 import scapy.all as scapy
 import time
 
-#Logo Font: figlet -f smslant.flf "Spoofing Attack"
 figlet_Name = ('''
            ____               ____             ___  __  __           __  
           / __/__  ___  ___  / _(_)__  ___ _  / _ |/ /_/ /____ _____/ /__
